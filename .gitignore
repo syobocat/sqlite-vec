@@ -22,7 +22,7 @@ examples/dbpedia-openai
 examples/imdb
 examples/sotu
 
-sqlite-vec.h
+/sqlite-vec.h
 tmp/
 
 poetry.lock
